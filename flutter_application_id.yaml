@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.pocotua.www"
+    name: "Pocotua"
+  ios:
+    id: "com.pocotua.www"
+    name: "Pocotua"
